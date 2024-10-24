@@ -34,3 +34,5 @@ A passionate Full Stack Developer from **PAKISTAN**
 
 ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SOHAILASIF1&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SOHAILASIF1)](https://git.io/streak-stats)
+
