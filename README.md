@@ -24,3 +24,6 @@ A passionate Full Stack Developer from [Your Country] 🇵🇰
 ## Connect with me
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_username)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+
+![Your Name](https://e7.pngegg.com/pngimages/578/658/png-clipart-web-development-web-developer-web-design-software-developer-web-design-furniture-search-engine-optimization-thumbnail.png)
+
