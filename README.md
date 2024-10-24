@@ -28,6 +28,18 @@ A passionate Full Stack Developer from **PAKISTAN**
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+## Education
+
+### Bachelor's in Electronics Engineering
+**Dawood University of Engineering and Technology, Karachi**  
+2020 – 2024
+
+### Diploma in Full Stack Development
+**Saylani Mass IT Training**  
+2022 – 2023
+
+
 ## Connect with me
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_username)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
