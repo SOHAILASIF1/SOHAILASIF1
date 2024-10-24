@@ -30,4 +30,7 @@ A passionate Full Stack Developer from **PAKISTAN**
 ## Connect with me
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_username)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+
+
+## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SOHAILASIF1&count_private=true)](https://git.io/streak-stats)
