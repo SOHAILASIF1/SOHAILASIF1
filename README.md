@@ -48,6 +48,43 @@ A passionate Full Stack Developer from **PAKISTAN**
 ![Completion](https://img.shields.io/badge/Completed-2023-success?style=flat-square)
 
 
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=mail-dot?link)](mailto:your-email@example.com)
+[![Dev](https://img.shields.io/badge/Dev.to-black?style=flat&logo=devdotto)](https://dev.to)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com)
+
+---
+
+## 🛠️ Languages and Tools
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-pink?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Plans on Learning
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-red?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=flat&logo=graphql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)
+
+---
+
+
+
 ## Connect with me
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_username)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
