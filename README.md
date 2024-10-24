@@ -29,15 +29,23 @@ A passionate Full Stack Developer from **PAKISTAN**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## Education
+## 🏫 Education
 
-### Bachelor's in Electronics Engineering
+### 🎓 Bachelor's in Electronics Engineering
 **Dawood University of Engineering and Technology, Karachi**  
-2020 – 2024
+*2019 – Present*
 
-### Diploma in Full Stack Development
+![Degree](https://img.shields.io/badge/Degree-Electronics_Engineering-blue?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Karachi-ff69b4?style=flat-square)
+
+---
+
+### 💻 Diploma in Full Stack Development
 **Saylani Mass IT Training**  
-2022 – 2023
+*2022 – 2023*
+
+![Course](https://img.shields.io/badge/Course-Full_Stack_Development-green?style=flat-square)
+![Completion](https://img.shields.io/badge/Completed-2023-success?style=flat-square)
 
 
 ## Connect with me
