@@ -1,14 +1,12 @@
 # Hi 👋, I'm SOHAIL ASIF
 <img align="right" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="Your Image" width="300">
 
-A passionate Full Stack Developer from PAKISTAN 🇵🇰
-
-- 🔭 I’m currently working on MERN
-
-- 👯 I’m looking to collaborate on **[Open Source Projects or Topics]**
-- 💬 Ask me about **[What topics you specialize in]**
-- 📫 How to reach me: sohailasuf123@gmail.com
-- ⚡ Fun fact: I can write code faster than I can type messages!
+A passionate Full Stack Developer from **PAKISTAN**
+- 🔭 I’m currently working on **MERN**
+- 👯 I’m looking to collaborate on ****
+- 💬 💬 Ask me about **MERN Stack, Full Stack Development, JavaScript, Node.js, React, Express.js, MongoDB and REST APIs**
+- 📫 How to reach me: **sohailasuf123@gmail.com**
+- ⚡ Fun fact: **I can write code faster than I can type messages!**
 
 ## Tech Stack
 ### Libraries/Frameworks
