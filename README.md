@@ -39,8 +39,7 @@ A passionate Full Stack Developer from **PAKISTAN**
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOHAILASIF1&show_icons=true&count_private=true&theme=dark)](https://github.com/your-username)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAILASIF1&layout=compact&theme=dark)](https://github.com/your-username)
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SOHAILASIF1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
