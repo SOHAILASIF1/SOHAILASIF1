@@ -1,0 +1,33 @@
+name: Update README on File Addition
+
+on:
+  push:
+    paths:
+      - '**/*'
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README.md
+        run: |
+          echo "# Files in this Repository" > README.md
+          echo "" >> README.md
+          echo "This README file is automatically updated when files are added." >> README.md
+          echo "" >> README.md
+          echo "## Files List:" >> README.md
+          echo "" >> README.md
+          find . -type f ! -path "./.git/*" ! -name "README.md" -exec echo "- {}" \; >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with new file list [skip ci]" || echo "No changes to commit"
+          git push
