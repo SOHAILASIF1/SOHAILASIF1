@@ -90,7 +90,8 @@ A passionate Full Stack Developer from **PAKISTAN**
 
 
 ## Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SOHAILASIF1&count_private=true)](https://git.io/streak-stats)
+![Snake animation](https://github.com/SOHAILASIF1/SOHAILASIF1/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOHAILASIF1&show_icons=true&count_private=true&theme=dark)](https://github.com/your-username)
 <br>
