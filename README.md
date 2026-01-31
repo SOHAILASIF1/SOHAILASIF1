@@ -1,104 +1,91 @@
-# Hi 👋, I'm SOHAIL ASIF
-<img align="right" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="Your Image" width="300">
+# Hi 👋, I'm **Sohail Asif**
+<img align="right" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" width="280"/>
 
-A passionate Full Stack Developer from **PAKISTAN**
-- 🔭 I’m currently working on **MERN**
-- 💬 💬 Ask me about **MERN Stack, Full Stack Development, JavaScript, Node.js, React, Express.js, MongoDB and REST APIs**
-- 📫 How to reach me: **sohailasuf123@gmail.com**
-- ⚡ Fun fact: **I can write code faster than I can type messages!**
+### 🚀 Full Stack Developer | MERN Stack  
+📍 Pakistan 🇵🇰  
 
-## Tech Stack
-### Libraries/Frameworks
+I’m a passionate Full Stack Developer who loves building scalable web apps, clean APIs, and modern UIs.  
+Currently focused on **MERN + modern JavaScript ecosystems**.
+
+---
+
+## 🧠 About Me
+- 🔭 Currently working on **MERN Stack projects**
+- 🌱 Learning **Advanced Backend, System Design & Next.js**
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, REST APIs**
+- 📫 Reach me at **sohailasuf123@gmail.com**
+- ⚡ Fun fact: *I can debug faster than I can explain bugs 😄*
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 
+---
 
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
+---
 
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
-
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+---
 
 ## 🏫 Education
 
-### 🎓 Bachelor's in Electronics Engineering
-**Dawood University of Engineering and Technology, Karachi**  
+### 🎓 Bachelor’s in Electronics Engineering  
+**Dawood University of Engineering & Technology, Karachi**  
 *2019 – Present*
 
-![Degree](https://img.shields.io/badge/Degree-Electronics_Engineering-blue?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Karachi-ff69b4?style=flat-square)
-
----
-
-### 💻 Diploma in Full Stack Development
+### 💻 Diploma in Full Stack Development  
 **Saylani Mass IT Training**  
 *2022 – 2023*
 
-![Course](https://img.shields.io/badge/Course-Full_Stack_Development-green?style=flat-square)
-![Completion](https://img.shields.io/badge/Completed-2023-success?style=flat-square)
+---
 
+## 📈 GitHub Analytics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOHAILASIF1&show_icons=true&theme=github_dark&count_private=true)
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=mail-dot?link)](mailto:your-email@example.com)
-[![Dev](https://img.shields.io/badge/Dev.to-black?style=flat&logo=devdotto)](https://dev.to)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAILASIF1&layout=compact&theme=github_dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SOHAILASIF1&theme=github-dark)
 
 ---
 
-## 🛠️ Languages and Tools
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-pink?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white)
-
----
-
-## 🚀 Plans on Learning
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-red?style=flat&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=flat&logo=graphql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)
-
----
-
-
-
-## Connect with me
-[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-
-
-## Github Stats
+## 🐍 Contribution Snake
 ![Snake animation](https://github.com/SOHAILASIF1/SOHAILASIF1/blob/output/github-contribution-grid-snake.svg)
 
-<br>
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOHAILASIF1&show_icons=true&count_private=true&theme=dark)](https://github.com/your-username)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAILASIF1&layout=compact&theme=dark)](https://github.com/your-username)
+---
 
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:sohailasuf123@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto)](https://dev.to)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com)
 
+---
 
+## 🚀 Currently Learning / Next Goals
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
+![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=for-the-badge&logo=graphql)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
+---
 
-
+⭐ *If you like my work, consider starring my repositories!*  
