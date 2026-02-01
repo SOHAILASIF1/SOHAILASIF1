@@ -7,6 +7,8 @@
 I’m a passionate Full Stack Developer who loves building scalable web apps, clean APIs, and modern UIs.  
 Currently focused on **MERN + modern JavaScript ecosystems**.
 
+![Profile Views](https://komarev.com/ghpvc/?username=SOHAILASIF1&label=Profile%20Views&color=0e75b6&style=flat-square)
+
 ---
 
 ## 🧠 About Me
@@ -59,11 +61,16 @@ Currently focused on **MERN + modern JavaScript ecosystems**.
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOHAILASIF1&show_icons=true&theme=github_dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOHAILASIF1&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAILASIF1&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAILASIF1&layout=compact&theme=github_dark&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SOHAILASIF1&theme=github-dark)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=SOHAILASIF1&theme=darkhub&no-frame=true)
 
 ---
 
@@ -88,4 +95,4 @@ Currently focused on **MERN + modern JavaScript ecosystems**.
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+⭐ *If you like my work, consider starring my repositories!*
