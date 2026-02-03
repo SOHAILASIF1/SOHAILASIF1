@@ -69,8 +69,9 @@ Currently focused on **MERN + modern JavaScript ecosystems**.
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=SOHAILASIF1&theme=darkhub&no-frame=true)
+## 🏆 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
 
 ---
 
