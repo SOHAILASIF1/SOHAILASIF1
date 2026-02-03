@@ -68,7 +68,7 @@ Currently focused on **MERN + modern JavaScript ecosystems**.
 ---
 
 ## 🏆 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=SOHAILASIF1&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SOHAILASIF1)](https://git.io/streak-stats)
 
 
 ---
