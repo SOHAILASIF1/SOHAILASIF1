@@ -72,6 +72,8 @@ Currently focused on **MERN + modern JavaScript ecosystems**.
 
 
 ---
+![Sohail's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOHAILASIF1&show_icons=true&theme=tokyonight)
+
 
 
 
