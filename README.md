@@ -61,9 +61,7 @@ Currently focused on **MERN + modern JavaScript ecosystems**.
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOHAILASIF1&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAILASIF1&layout=compact&theme=github_dark&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SOHAILASIF1&theme=github-dark)
 
@@ -75,10 +73,7 @@ Currently focused on **MERN + modern JavaScript ecosystems**.
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/SOHAILASIF1/SOHAILASIF1/blob/output/github-contribution-grid-snake.svg)
 
----
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
