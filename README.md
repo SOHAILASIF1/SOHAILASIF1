@@ -11,7 +11,7 @@
 
 I'm a passionate Full Stack Developer who loves building scalable web apps, clean APIs, and modern UIs. Currently focused on **MERN + modern JavaScript ecosystems**.
 
-> ⚡ *Fun fact: I debug faster than I can explain bugs 😄*
+> ⚡ *Fun fact: I debug faster than I can explain bugs 😄 *
 
 ---
 
