@@ -11,14 +11,14 @@
 
 I'm a passionate Full Stack Developer who loves building scalable web apps, clean APIs, and modern UIs. Currently focused on **MERN + modern JavaScript ecosystems**.
 
-> ⚡ *Fun fact: I debug faster than I can explain bugs 😄 *
+> ⚡ *Fun fact: I debug faster than I can explain bugs 😄*
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **MERN Stack projects**
-- 🌱 Learning **Advanced Backend, System Design & Next.js**
+- 🔭 Currently building **MERN Stack projects** (Job Board / Freelance Marketplace, URL Shortener with Redis)
+- 🌱 Learning **Advanced Backend, System Design, Redis & Next.js**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, REST APIs**
 - 📫 Reach me at **[sohailasuf123@gmail.com](mailto:sohailasuf123@gmail.com)**
 - 🛒 Also offering **MERN Stack + WordPress** services on Fiverr
@@ -43,11 +43,19 @@ I'm a passionate Full Stack Developer who loves building scalable web apps, clea
 
 ### 🗄️ Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💼 Projects
+
+- **Job Board / Freelance Marketplace**: full-stack MERN app with authentication and role-based flows
+- **URL Shortener with Click Analytics**: MERN + Redis (counters, key expiry, sorted sets)
 
 ---
 
@@ -100,6 +108,7 @@ Saylani Mass IT Training — *2022 – 2023*
 
 ## 🚀 Currently Learning / Next Goals
 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
